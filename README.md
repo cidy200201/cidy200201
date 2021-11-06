@@ -1,6 +1,5 @@
 ### Hi there, I am Siddharth Chakraborty
-#Student in SRM University 2023 Batch<br/>
-#Contact me via LinkedIn 
+Student in SRM University 2023 Batch<br/>
 
 ### Languages and Tools:
 ### Tools
