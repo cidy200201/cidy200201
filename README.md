@@ -11,7 +11,7 @@ Student in SRM University 2023 Batch<br/>
 [<img align="left" alt="C++" width="24px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />][C++]
 [<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png" />][C]
 [<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][Python]
---
+--<br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cidy200201&show_icons=true&theme=radical)](https://github.com/cidy200201/github-readme-stats)<br/>
 --
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cidy200201&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
