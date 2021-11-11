@@ -1,6 +1,7 @@
 ### Hi there, I am Siddharth Chakraborty
 Student in SRM University 2023 Batch<br/>
 
+
 ### Languages and Tools:
 ### Tools
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual_Studio_Code]
@@ -11,7 +12,7 @@ Student in SRM University 2023 Batch<br/>
 [<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png" />][C]
 [<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][Python]
 --
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cidy200201&show_icons=true&theme=radical)](https://github.com/cidy200201/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cidy200201&show_icons=true&theme=radical)](https://github.com/cidy200201/github-readme-stats)<br/>
 --
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cidy200201&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
