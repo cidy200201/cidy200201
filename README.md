@@ -2,7 +2,7 @@
 
 Student in SRM University 2023 Batch<br/>
 Currently pursuing B.Tech in Computer Science Engineering<br/>
-Aspi
+
 
 ### Languages and Tools:
 
@@ -14,7 +14,7 @@ Aspi
   <li>HTML</li>
   <li>CSS</li>
 </ul>
---
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cidy200201&show_icons=true&theme=radical)](https://github.com/cidy200201/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cidy200201&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
