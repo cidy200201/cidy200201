@@ -16,6 +16,5 @@ Currently pursuing B.Tech in Computer Science Engineering<br/>
 </ul>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cidy200201&show_icons=true&theme=radical)](https://github.com/cidy200201/github-readme-stats)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cidy200201&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
