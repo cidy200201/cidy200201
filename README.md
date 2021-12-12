@@ -14,12 +14,7 @@ Aspi
   <li>HTML</li>
   <li>CSS</li>
 </ul>
-
-### My socials
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="cidy200201" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/cidy200201?trk=profile-badge">Siddharth Chakraborty</a></div>
-
+--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cidy200201&show_icons=true&theme=radical)](https://github.com/cidy200201/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cidy200201&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
