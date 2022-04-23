@@ -1,5 +1,5 @@
 ### Hi 👋 My name is Siddharth Chakraborty <br>
-====================================== <br>
+
 Web Developer | Student at SRM Institute of Science and Technology
 ------------------------------------------------------------------
 * 🌍  I'm based in Chennai, India
