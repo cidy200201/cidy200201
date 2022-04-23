@@ -4,7 +4,8 @@ Web Developer | Student at SRM Institute of Science and Technology
 ------------------------------------------------------------------
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [sc6065@srmist.edu.in](mailto:sc6065@srmist.edu.in )
-* 🧠  I'm learning ReactJs* 🤝  I'm open to collaborating on Web Development Projects
+* 🧠  I'm learning ReactJs
+* 🤝  I'm open to collaborating on Web Development Projects
 
 ### Skills
 
